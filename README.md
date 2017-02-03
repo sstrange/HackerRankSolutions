@@ -1,3 +1,3 @@
 # HackerRankSolutions
-My solutions to HackerRank exercises
-typed into github editor
+My solutions to HackerRank exercises  
+
